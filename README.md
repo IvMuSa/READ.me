@@ -1,5 +1,6 @@
-# Perfil acad¨¦mico Ivannia Mu0Š9oz
+# Perfil académico Ivannia Muñoz
 
-## Estudiante Escuela de Geograf¨ªa
+## Estudiante Escuela de Geografía
 
-[README.md](https://github.com/IvMuSa/READ.me/files/8525502/README.md)
+
+
